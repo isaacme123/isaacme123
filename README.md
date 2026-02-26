@@ -1,6 +1,15 @@
 # Hi, I'm Isaac Eleini 👋
 
 <p align="left">
+  <a href="mailto:isaacmeleini@me.com">
+    <img src="https://img.shields.io/badge/Email-isaacmeleini@me.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/isaaceleini" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-isaaceleini-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Role-Enterprise%20Customer%20Success-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-London,%20UK-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Pronouns-He%20/%20Him%20/%20His-lightgrey?style=flat-square" />
@@ -27,8 +36,10 @@ I specialize in helping teams ship code:
 
 ---
 
-## 📫 Reach Me 
+## 🏃‍♂️ Outside of Work
+When I'm not in "build mode," I'm usually found moving, exploring, or creating:
 
-📧 Email: isaacmeleini@me.com
-
-🔗 LinkedIn: www.linkedin.com/in/isaaceleini
+* 🎾 **Sports Obsessed:** I'm always on the move. Whether it’s playing **Football, Tennis, Running, or Surfing**, I love the challenge of staying active. I'm currently obsessed with **Padel** and love trying out any new sport that comes my way. I’m just as happy watching from the stands as I am on the pitch!
+* 🍳 **Foodie at Heart:** I’m a big fan of great food, whether I’m scouting out new **restaurants** or experimenting with new recipes in the **kitchen**. 
+* 📸 **Travel & Photography:** I love exploring new cultures through **traveling** and I always have my camera ready to capture the moment through **photography**. 
+* 🕺 **Life of the Party:** I’m a social soul who loves a good **party and a dance**—I believe in working hard and celebrating even harder.
