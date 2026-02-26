@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**isaacme123/isaacme123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I am Isaac Eleini
 
-Here are some ideas to get you started:
+I am a CSM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am born and raised in London, UK
+
+I’m currently supporting Enterprise organisations ship code better, faster and more securely
+
+I’m currently learning how to "build" myself
+
+How to reach me: isaacmeleini@me.com
+
+Pronouns: he / him / his
