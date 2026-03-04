@@ -20,7 +20,7 @@
 ## 👷‍♂️ About Me
 I believe the best CSMs are those who treat their own growth with the same rigor as a product launch.
 
-* 🇬🇧 **London Born & Raised:** A true Londoner through and through, with a diverse background that fuels my perspective 🇻🇪 🇸🇩 🇮🇹.
+* 🇬🇧 **London Born & Raised:** A Londoner through and through, with a diverse background that fuels my perspective 🇻🇪 🇸🇩 🇮🇹.
 * 🧱 **"Building Myself":** I’m currently focused on **learning how to "build."** This means moving beyond high-level strategy to understand the technical architecture and tools that developers use daily. I treat my personal development like a product roadmap—constantly iterating, testing, and shipping new versions of my skillset.
 * 🤝 **Human-Centric Success:** While I advocate for the best tech, I support *people*. I focus on building authentic relationships that move past the "vendor" label into a true partnership.
 
